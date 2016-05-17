@@ -1,0 +1,7 @@
+base   assocomments
+author Pedro Castro
+email  pedromrvc@gmail.com
+date   2016-05-10
+name   assocomments plugin
+desc   comments like google docs
+url    https://moodle.up.pt/course/view.php?id=1098
